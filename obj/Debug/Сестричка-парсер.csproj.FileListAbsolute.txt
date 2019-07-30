@@ -23,3 +23,8 @@ C:\Users\cherv\source\repos\Сестричка-парсер\Сестричка-�
 C:\Users\cherv\source\repos\Сестричка-парсер\Сестричка-парсер\obj\Debug\Сестричка-парсер.csproj.CopyComplete
 C:\Users\cherv\source\repos\Сестричка-парсер\Сестричка-парсер\obj\Debug\Сестричка-парсер.exe
 C:\Users\cherv\source\repos\Сестричка-парсер\Сестричка-парсер\obj\Debug\Сестричка-парсер.pdb
+C:\Users\cherv\source\repos\Сестричка-парсер\Сестричка-парсер\obj\Debug\App.baml
+C:\Users\cherv\source\repos\Сестричка-парсер\Сестричка-парсер\obj\Debug\Styles\Button.baml
+C:\Users\cherv\source\repos\Сестричка-парсер\Сестричка-парсер\obj\Debug\Styles\TextBox.baml
+C:\Users\cherv\source\repos\Сестричка-парсер\Сестричка-парсер\obj\Debug\Styles\Label.baml
+C:\Users\cherv\source\repos\Сестричка-парсер\Сестричка-парсер\obj\Debug\Styles\ListView.baml

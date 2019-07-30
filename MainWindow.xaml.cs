@@ -57,7 +57,7 @@ namespace Сестричка_парсер
         }
         private void Parser_OnNewData(object arg1, string[] data)
         {
-            processingTB.Text = $"Page processing: {currentPage}/{endPageTB.Text}";
+            processingTB.Content = $"Page processing: {currentPage}/{endPageTB.Text}";
 
             int j = 0;
             while (j < data.Length)

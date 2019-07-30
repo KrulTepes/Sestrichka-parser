@@ -22,3 +22,10 @@ C:\Users\cherv\source\repos\Сестричка-парсер\Сестричка-�
 C:\Users\cherv\source\repos\Сестричка-парсер\Сестричка-парсер\obj\Release\Сестричка-парсер.csproj.CopyComplete
 C:\Users\cherv\source\repos\Сестричка-парсер\Сестричка-парсер\obj\Release\Сестричка-парсер.exe
 C:\Users\cherv\source\repos\Сестричка-парсер\Сестричка-парсер\obj\Release\Сестричка-парсер.pdb
+C:\Users\cherv\source\repos\Сестричка-парсер\Сестричка-парсер\bin\Release\MaterialDesignColors.dll
+C:\Users\cherv\source\repos\Сестричка-парсер\Сестричка-парсер\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\cherv\source\repos\Сестричка-парсер\Сестричка-парсер\bin\Release\MaterialDesignColors.pdb
+C:\Users\cherv\source\repos\Сестричка-парсер\Сестричка-парсер\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\cherv\source\repos\Сестричка-парсер\Сестричка-парсер\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\cherv\source\repos\Сестричка-парсер\Сестричка-парсер\obj\Release\Сестричка-парсер.csprojAssemblyReference.cache
+C:\Users\cherv\source\repos\Сестричка-парсер\Сестричка-парсер\obj\Release\App.baml
